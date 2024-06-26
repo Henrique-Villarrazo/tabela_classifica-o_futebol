@@ -1,6 +1,6 @@
-<title> Tabela de Classificação - Futebol Série B </title>
-<text>Santos|5|5|5|5 </text>
-<text>Botafogo-SP|4|4|4|4 </text>
+<h1> Tabela de Classificação - Futebol Série B </h1>
+<h3>Santos|5|5|5|5 </h3>
+<h3>Botafogo-SP|4|4|4|4 </h3>
 
 
 tive a idéia de realizar esse projeto porque na empresa em que estou atualmente, 
