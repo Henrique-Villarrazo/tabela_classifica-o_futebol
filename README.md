@@ -1,5 +1,5 @@
 <h1> Tabela de Classificação - Futebol Série B </h1>
-<table>Santos|5|5|5|5 </table><br>
+<table>Santos|5|5|5|5 </table>
 <table>Botafogo-SP|4|4|4|4 </table>
 
 
