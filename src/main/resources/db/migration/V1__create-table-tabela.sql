@@ -1,0 +1,8 @@
+--create table classificação (
+--    id bigint not null auto_increment,
+--    team varchar(100) not null,
+--    point int not null,
+--    goals int not null,
+--    win int not null,
+--    primary key (id)
+--);
