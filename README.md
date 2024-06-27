@@ -9,4 +9,5 @@
 </table>
 
 tive a idéia de realizar esse projeto porque na empresa em que estou atualmente, 
-eles possuem uma table parecida e eu pensei que poderia fazer algo parecido só que de forma muito melhor e ir melhorando ainda mais a idéia, ao longo do tempo;
+eles possuem uma table parecida e eu pensei que poderia fazer um projeto de acordo com a idéia e ir melhorando ainda mais a mesma, ao longo do tempo;
+Projeto principalmente para treino, e lembrança de algumas funções e habilidades que não estava utilizando muito. 
