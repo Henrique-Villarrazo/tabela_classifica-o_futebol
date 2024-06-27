@@ -1,10 +1,10 @@
 <h1> Tabela de Classificação - Futebol Série B </h1>
 <table border="1">
 <tr>
-<td>Santos|5|5|5|5</td>
+<td>Santos</td> <td>5</td> <td>5</td> <td>5</td> <td>5</td> 
 </tr>  
 <tr>
-<td>Botafogo-SP|4|4|4|4</td>
+<td>Botafogo-SP</td> <td>4</td> <td>4</td> <td>4</td> <td>4</td>
 </tr>
 </table>
 
